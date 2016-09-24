@@ -27,7 +27,7 @@ namespace codingfreaks.blogsamples.MvvmSample.Logic.Ui
             else
             {
                 DispatcherHelper.Initialize();
-                WindowTitle = "SocialTree";
+                WindowTitle = "Update";
                 Task.Run(
                     () =>
                     {

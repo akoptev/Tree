@@ -27,7 +27,7 @@ namespace codingfreaks.blogsamples.MvvmSample.Logic.Ui
             else
             {
                 DispatcherHelper.Initialize();
-                WindowTitle = "Update";
+                WindowTitle = "Updat2e";
                 Task.Run(
                     () =>
                     {

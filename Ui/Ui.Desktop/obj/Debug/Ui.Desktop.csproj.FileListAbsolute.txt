@@ -1,0 +1,1 @@
+C:\Users\virtu\Documents\Visual Studio 2015\Projects\MvvmSample\Ui\Ui.Desktop\bin\Debug\MvvmSample.Ui.Desktop.exe.config
